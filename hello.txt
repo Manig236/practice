@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 First line
-Second line
->>>>>>> d7e301b (First commit in main branch)
+2 line
